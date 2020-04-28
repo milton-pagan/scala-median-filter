@@ -2,3 +2,8 @@ project/
 target/
 .metals/
 .bloop/
+scala_mf.code-workspace
+.scalafmt.conf
+apple_noise.jpg
+.sbt
+.vscode
